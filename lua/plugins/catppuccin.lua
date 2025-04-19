@@ -9,7 +9,7 @@ return {
         transparent_background = true,
         color_overrides = {
           mocha = {
-            base = "#0d1117", -- background utama (dark gray)
+            base = "#0d1117", -- primary background (dark gray)
             mantle = "#0b0f14",
             crust = "#080c10",
 

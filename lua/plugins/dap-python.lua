@@ -6,7 +6,7 @@ return {
     config = function()
       local dap_python = require("dap-python")
 
-      -- Fungsi auto-detect virtualenv Python
+      -- Function auto-detect virtualenv Python
       local function get_python_path()
         local cwd = vim.fn.getcwd()
         local paths = {
@@ -27,7 +27,7 @@ return {
           return home_venv
         end
 
-        return "python" -- fallback ke system python
+        return "python" -- fallback to system python
       end
 
       dap_python.setup(get_python_path())

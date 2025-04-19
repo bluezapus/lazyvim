@@ -304,3 +304,4 @@ Use `:ConformInfo` or `:LspInfo` to see formatters and LSPs working.
 | `n` | `<leader>sT` | Search TODOs |
 | `n` | `]t` | Prev TODO comment |
 | `n` | `<leader>xt` | Trouble TODO quickfix |
+

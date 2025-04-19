@@ -2,18 +2,17 @@ return {
   {
     "stevearc/conform.nvim",
     opts = {
-      -- Aktifkan format otomatis saat save
+      -- Auto save activated
       format_on_save = function(bufnr)
-        -- kamu bisa sesuaikan logika ini, misalnya hanya untuk file tertentu
         return true
       end,
-      -- Formatters berdasarkan filetype
+      -- filetype formatter
       formatters_by_ft = {
         python = { "black" },
         htmldjango = { "djlint" },
         html = { "djlint" },
       },
-      -- Konfigurasi formatter djlint
+      -- djlint formatter
       formatters = {
         djlint = {
           command = "djlint",
