@@ -3,6 +3,11 @@
 # 🌀 My LazyVim Config (Python & Django Setup)
 
 This is my personal LazyVim Neovim configuration, tuned for Python and Django development with debugging, linting, formatting, and more.
+## 📲 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://www.instagram.com/your_username](https://www.instagram.com/fl0.w3r3w.0lf/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-dwi-prastyo-8bb0082a9/)
+
 
 
 ## Inspired from
