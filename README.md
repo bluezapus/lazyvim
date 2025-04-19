@@ -1,5 +1,5 @@
 
-![Screenshot](images/lazyvim.png)
+![Logo](images/logo.png)
 # 🌀 My LazyVim Config (Python & Django Setup)
 
 This is my personal LazyVim Neovim configuration, tuned for Python and Django development with debugging, linting, formatting, and more.
@@ -13,17 +13,18 @@ https://www.lazyvim.org/
 
 https://github.com/deaafrizal/lazyvim.git
 
-
-![Logo](images/logo.png)
+![Screenshot](images/lazyvim.png)
 
 [Features](#features)
+
 [Quick Setup](#quick-Setup)
+
 [Installation for MacOs](#installation-for-mac-boygirl)
 [Installation for Ubuntu](#installation-for-ubuntu)
 [Installation for Arch](#installation-for-arch-btw)
 [Installation Dependencies](#installation-dependencies)
 [Installation LazyVim](#installation-lazyvim)
-[Installation Installation Dependencies for Django framework](#for django framework)
+[Installation Installation Dependencies for Django framework](#for-django-framework)
 [Neovim Tools via Mason](#neovim-tools-via-mason)
 [KeyMaps](#key-map)
 ## 🧰 Features
