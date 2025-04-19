@@ -18,12 +18,12 @@ https://github.com/deaafrizal/lazyvim.git
 - [Features](#-features)
 - [Quick Setup](#-quick-setup)
 - [Installation for MacOS](#-installation-for-mac-boygirl)
-- [Installation for Ubuntu](#installation-for-ubuntu)
-- [Installation for Arch](#installation-for-arch-btw)
+- [Installation for Ubuntu](#-installation-for-ubuntu)
+- [Installation for Arch](#-installation-for-arch-btw)
 - [Installation Dependencies](#installation-dependencies)
 - [Installation LazyVim](#installation-lazyvim)
 - [Django Framework Setup](#for-django-framework)
-- [Neovim Tools via Mason](#neovim-tools-via-mason)
+- [Neovim Tools via Mason](#-neovim-tools-via-mason)
 - [KeyMaps](#key-map)
 ## 🧰 Features
 
