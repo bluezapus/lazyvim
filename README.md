@@ -86,12 +86,6 @@ Minimum Brew version 4.4.0
   brew install neovim lazygit fd ripgrep fzf python node git curl 
 ```
 ```bash
-  python3 --version
-```
-```bash
-  python3 --version
-```
-```bash
   brew tap homebrew/cask-fonts
 brew install --cask font-fira-code-nerd-font
 ```
