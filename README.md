@@ -15,9 +15,9 @@ https://github.com/deaafrizal/lazyvim.git
 
 ![Screenshot](images/lazyvim.png)
 
-- [Features](#features)
-- [Quick Setup](#quick-setup)
-- [Installation for MacOS](#installation-for-mac-boygirl)
+- [Features](#-features)
+- [Quick Setup](#-quick-setup)
+- [Installation for MacOS](#-installation-for-mac-boygirl)
 - [Installation for Ubuntu](#installation-for-ubuntu)
 - [Installation for Arch](#installation-for-arch-btw)
 - [Installation Dependencies](#installation-dependencies)
