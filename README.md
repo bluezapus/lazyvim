@@ -210,10 +210,10 @@ Use `:ConformInfo` or `:LspInfo` to see formatters and LSPs working.
 | `n` | `<leader>sq` | Quickfix |
 | `n` | `<leader>sw` | Search word |
 | `n` | `<leader>sW` | Search WORD |
-| `n` | `<leader>uC` | Unknown |
+| `n` | `<leader>uC` | Color scheme preview |
 | `n` | `<leader>ss` | Symbols |
 | `n` | `<leader>sS` | Snippets |
-| `n` | `<leader><space>` | Unknown |
+| `n` | `<leader><space>` | Find files |
 | `t` | `<C-j>` | Terminal down |
 | `t` | `<C-k>` | Terminal up |
 | `n` | `<leader>,` | Switch buffer |
