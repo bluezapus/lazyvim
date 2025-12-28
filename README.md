@@ -1,6 +1,6 @@
 
 ![Logo](images/logo.png)
-# 🌀 My LazyVim Config (Python & Django Setup)
+# My LazyVim Config (Python & Django Setup)
 
 This is my personal LazyVim Neovim configuration, tuned for Python and Django development with debugging, linting, formatting, and more.
 ## 📲 Let's Connect
@@ -30,7 +30,7 @@ https://github.com/deaafrizal/lazyvim.git
 - [Django Framework Setup](#for-django-framework)
 - [Neovim Tools via Mason](#-neovim-tools-via-mason)
 - [KeyMaps](#key-map)
-## 🧰 Features
+## Features
 
 
 - 🐍 Python and Django support
@@ -46,7 +46,7 @@ https://github.com/deaafrizal/lazyvim.git
 - 💻 NerdFont and [Kitty](https://sw.kovidgoyal.net/kitty/) terminal ready
 
 
-## ✨ Quick Setup
+## Quick Setup
 #### recommended using [Oh My Zsh](https://ohmyz.sh/) [Power Lavel 10k](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#oh-my-zsh) for a better appearance
 
 ```bash
@@ -70,7 +70,7 @@ Open `~/.zshrc`, find the line that sets `ZSH_THEME`, and change its value to `"
   chsh -s /bin/zsh
 ```
 
-- #### 🍎 Installation for Mac Boy/Girl
+- #### Installation for Mac Boy/Girl
 Minimum Brew version 4.4.0
 ```bash
   brew --version
@@ -90,7 +90,7 @@ Minimum Brew version 4.4.0
 brew install --cask font-fira-code-nerd-font
 ```
 
-- #### 🟠 Installation for Ubuntu
+- #### Installation for Ubuntu
 ```bash
   python3 --version
 ```
@@ -107,7 +107,7 @@ brew install --cask font-fira-code-nerd-font
 ```bash
   fc-cache -fv
 ```
-- #### 🐧 Installation for Arch BTW
+- #### Installation for Arch BTW
 
 ```bash
   python --version
@@ -168,7 +168,7 @@ brew install --cask font-fira-code-nerd-font
   : Lazy sync
 ```
 
-### 📦 Neovim Tools via Mason
+### Neovim Tools via Mason
 Open nvim and run:
 ```bash
   : Mason
@@ -183,13 +183,13 @@ Use `:ConformInfo` or `:LspInfo` to see formatters and LSPs working.
 <span style="color:red">Teks ini merah</span>
 ## Key Map
 
-#### 📦 Plugin: `conform.nvim`
+#### Plugin: `conform.nvim`
 
 | Mode | Shortcut     | Function                |
 | :-------- | :------- | :------------------------- |
 | `n/v` | `<leader> cF` | Format file |
 
-#### 🔍 Plugin: `fzf-lua`
+#### Plugin: `fzf-lua`
 
 
 | Mode | Shortcut     | Function                |
@@ -234,12 +234,12 @@ Use `:ConformInfo` or `:LspInfo` to see formatters and LSPs working.
 | `n` | `<leader>sc` | Search commands |
 
 
-#### 🧠 Plugin: grug-far.nvim
+#### Plugin: grug-far.nvim
 | Mode | Shortcut     | Function                |
 | :-------- | :------- | :------------------------- |
 | `n/v` | `<leader>sr` | Replace string |
 
-#### 🌳 Plugin: `neo-tree.nvim`
+#### Plugin: `neo-tree.nvim`
 
 | Mode | Shortcut     | Function                |
 | :-------- | :------- | :------------------------- |
@@ -250,7 +250,7 @@ Use `:ConformInfo` or `:LspInfo` to see formatters and LSPs working.
 | `n` | `<leader>e` | Explorer toggle |
 | `n` | `<leader>E` | Explorer toggle |
 
-#### 🐞 Plugin: `nvim-dap`
+#### Plugin: `nvim-dap`
 | Mode | Shortcut     | Function                |
 | :-------- | :------- | :------------------------- |
 | `n` | `<leader>dk` | Up frame |
@@ -270,19 +270,19 @@ Use `:ConformInfo` or `:LspInfo` to see formatters and LSPs working.
 | `n` | `<leader>di` | Inspect |
 | `n` | `<leader>dj` | Jump to source |
 
-#### 🐍 Plugin: `nvim-dap-python`
+#### Plugin: `nvim-dap-python`
 | Mode | Shortcut     | Function                |
 | :-------- | :------- | :------------------------- |
 | `n` | `<leader>dPt` | Test method |
 | `n` | `<leader>dPc` | Test class |
 
-#### 👁️ Plugin: `nvim-dap-ui`
+#### Plugin: `nvim-dap-ui`
 | Mode | Shortcut     | Function                |
 | :-------- | :------- | :------------------------- |
 | `v/n` | `<leader>de` | Evaluate |
 | `n` | `<leader>du` | Toggle UI |
 
-#### 🧠 Plugin: `persistence.nvim`
+#### Plugin: `persistence.nvim`
 | Mode | Shortcut     | Function                |
 | :-------- | :------- | :------------------------- |
 | `n` | `<leader>qs` | Load last session |
@@ -290,7 +290,7 @@ Use `:ConformInfo` or `:LspInfo` to see formatters and LSPs working.
 | `n` | `<leader>ql` | Load session list |
 | `n` | `<leader>qd` | Don't load session |
 
-#### 📝 Plugin: `todo-comments.nvim`
+#### Plugin: `todo-comments.nvim`
 | Mode | Shortcut     | Function                |
 | :-------- | :------- | :------------------------- |
 | `n` | `<leader>xT` | Trouble TODOs |
